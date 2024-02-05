@@ -1,0 +1,24 @@
+.ContentContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	justify-content: flex-start;
+	align-items: flex-start;
+	width: 100%;
+	max-width: calc(100vw - 230px);
+	padding: 50px 30px;
+	margin-left: 230px;
+	transition: all 0.3s ease;
+}
+@media (max-width: 1140px) {
+	.ContentContainer {
+		margin-left: 80px;
+		max-width: calc(100vw - 80px);
+	}
+}
+@media (max-width: 1024px) {
+	.ContentContainer {
+		margin-left: 0px;
+		max-width: 100%;
+	}
+}
