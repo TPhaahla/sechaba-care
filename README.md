@@ -10,7 +10,7 @@ Overall, the project has fallen short of expectation due to various reasons. The
 - SMS Notifications
   - The primary reason for ommiting this functionality is because this stage of the project prioritised keeping costs to a minimum or at zero where possible so as to not incur unnecessary costs for functions that wwill not be used.
 - Responsiveness
--   Application is not responsive to change in screen size at this time.
+  - Application is not responsive to change in screen size at this time.
 # Project Plan
 
 ### Project Status: Incomplete
@@ -37,9 +37,6 @@ Proposed Steps:
 # Demo Video at Current State
 - [Demo Video Link - Google Drive](https://drive.google.com/drive/folders/1epGd69XmIwD8ZYxHhVAoyj82ADLBnA63?usp=sharing)
 
-### Diagram
-  <img width="779" alt="Screenshot 2024-02-06 at 15 20 33" src="https://github.com/TPhaahla/sechaba-care/assets/72293519/244643fb-68f1-428f-bf52-4382a79c3f97">
-
 # Email Notification Screenshots
 Email testing for this project makes use of [Mailtrap](https://mailtrap.io/) by [railsware](https://railsware.com/).
 This has allowed for emails to not acccidentally be sent out to the public during testing, but rather to be stored in a mailtrap inbox for further evaluation throughout testing.
@@ -50,10 +47,8 @@ This has allowed for emails to not acccidentally be sent out to the public durin
 ### Issued Prescription Notification
 https://github.com/TPhaahla/sechaba-care/assets/72293519/c5fe8481-b138-4992-abb5-fc8c01f43510
 
-
-
 ### Filled Prescription Notification
-- Pending Screenshot Upload
-  
+<img width="1440" alt="Screenshot 2024-02-06 at 21 07 53" src="https://github.com/TPhaahla/sechaba-care/assets/72293519/659d8283-812c-4faa-8a84-1729ac7704ff">
+
 ### Dispensed Medication Notification
 - Pending Screenshot Upload
