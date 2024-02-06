@@ -9,7 +9,8 @@ Overall, the project has fallen short of expectation due to various reasons. The
 # Ommitted Functionality
 - SMS Notifications
   - The primary reason for ommiting this functionality is because this stage of the project prioritised keeping costs to a minimum or at zero where possible so as to not incur unnecessary costs for functions that wwill not be used.
-
+- Responsiveness
+-   Application is not responsive to change in screen size at this time.
 # Project Plan
 
 ### Project Status: Incomplete
@@ -47,7 +48,9 @@ This has allowed for emails to not acccidentally be sent out to the public durin
 <img width="1440" alt="Screenshot 2024-02-05 at 14 54 32" src="https://github.com/TPhaahla/sechaba-care/assets/72293519/f2c76ffe-2012-4757-bc33-b222c0df4d8a">
 
 ### Issued Prescription Notification
-- Pending Screenshot Upload
+https://github.com/TPhaahla/sechaba-care/assets/72293519/c5fe8481-b138-4992-abb5-fc8c01f43510
+
+
 
 ### Filled Prescription Notification
 - Pending Screenshot Upload
