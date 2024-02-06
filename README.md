@@ -35,7 +35,10 @@ Proposed Steps:
 
 # Demo Video at Current State
 - [Demo Video Link - Google Drive](https://drive.google.com/drive/folders/1epGd69XmIwD8ZYxHhVAoyj82ADLBnA63?usp=sharing)
-  
+
+### Diagram
+  <img width="779" alt="Screenshot 2024-02-06 at 15 20 33" src="https://github.com/TPhaahla/sechaba-care/assets/72293519/244643fb-68f1-428f-bf52-4382a79c3f97">
+
 # Email Notification Screenshots
 Email testing for this project makes use of [Mailtrap](https://mailtrap.io/) by [railsware](https://railsware.com/).
 This has allowed for emails to not acccidentally be sent out to the public during testing, but rather to be stored in a mailtrap inbox for further evaluation throughout testing.
