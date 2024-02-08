@@ -36,7 +36,7 @@ Proposed Steps:
 
 # Demo Video at Current State
 - [Demo Video Link - Google Drive](https://drive.google.com/drive/folders/1epGd69XmIwD8ZYxHhVAoyj82ADLBnA63?usp=sharing)
-
+- [Notes Accompanying Demo Video](https://drive.google.com/file/d/1Ya6HGDgwL7vyN-NxZatq4J2uM49Bw6ge/view?usp=drive_link)
 # Email Notification Screenshots
 Email testing for this project makes use of [Mailtrap](https://mailtrap.io/) by [railsware](https://railsware.com/).
 This has allowed for emails to not acccidentally be sent out to the public during testing, but rather to be stored in a mailtrap inbox for further evaluation throughout testing.
